@@ -1,0 +1,6 @@
+[submodule "new"]
+	path = new
+	url = https://github.com/shahamatshakeel-ux/PF_projects.git
+[submodule "PF_project2"]
+	path = PF_project2
+	url = https://github.com/shahamatshakeel-ux/PF_projects.git
